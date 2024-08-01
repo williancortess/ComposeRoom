@@ -46,6 +46,7 @@ fun FormularioLoginTela(
             modifier = Modifier
                 .fillMaxWidth()
                 .weight(1f)
+
         ) {
             AsyncImage(
                 modifier = Modifier
